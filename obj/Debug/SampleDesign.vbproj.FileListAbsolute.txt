@@ -1,0 +1,55 @@
+c:\users\jhomell\documents\visual studio 2015\Projects\SampleDesign\bin\Debug\SampleDesign.exe.config
+c:\users\jhomell\documents\visual studio 2015\Projects\SampleDesign\obj\Debug\SampleDesign.vbprojResolveAssemblyReference.cache
+c:\users\jhomell\documents\visual studio 2015\Projects\SampleDesign\obj\Debug\SampleDesign.Resources.resources
+c:\users\jhomell\documents\visual studio 2015\Projects\SampleDesign\obj\Debug\SampleDesign.vbproj.GenerateResource.Cache
+c:\users\jhomell\documents\visual studio 2015\Projects\SampleDesign\bin\Debug\SampleDesign.exe
+c:\users\jhomell\documents\visual studio 2015\Projects\SampleDesign\bin\Debug\SampleDesign.pdb
+c:\users\jhomell\documents\visual studio 2015\Projects\SampleDesign\bin\Debug\SampleDesign.xml
+c:\users\jhomell\documents\visual studio 2015\Projects\SampleDesign\obj\Debug\SampleDesign.exe
+c:\users\jhomell\documents\visual studio 2015\Projects\SampleDesign\obj\Debug\SampleDesign.xml
+c:\users\jhomell\documents\visual studio 2015\Projects\SampleDesign\obj\Debug\SampleDesign.pdb
+C:\Users\jhomell\documents\visual studio 2015\Projects\SampleDesign\obj\Debug\SampleDesign.Intro.resources
+C:\Users\jhomell\documents\visual studio 2015\Projects\SampleDesign\obj\Debug\SampleDesign.Home.resources
+C:\Users\jhomell\documents\visual studio 2015\Projects\SampleDesign\obj\Debug\SampleDesign.Writing.resources
+C:\Users\jhomell\documents\visual studio 2015\Projects\SampleDesign\obj\Debug\SampleDesign.Edit.resources
+C:\Users\jhomell\documents\visual studio 2015\Projects\SampleDesign\obj\Debug\SampleDesign.View.resources
+C:\Users\jhomell\documents\visual studio 2015\Projects\SampleDesign\obj\Debug\SampleDesign.Password.resources
+C:\Users\jhomell\Documents\SampleDesign\bin\Debug\SampleDesign.exe.config
+C:\Users\jhomell\Documents\SampleDesign\bin\Debug\SampleDesign.exe.manifest
+C:\Users\jhomell\Documents\SampleDesign\bin\Debug\SampleDesign.application
+C:\Users\jhomell\Documents\SampleDesign\bin\Debug\SampleDesign.exe
+C:\Users\jhomell\Documents\SampleDesign\bin\Debug\SampleDesign.pdb
+C:\Users\jhomell\Documents\SampleDesign\bin\Debug\SampleDesign.xml
+C:\Users\jhomell\Documents\SampleDesign\obj\Debug\SampleDesign.Intro.resources
+C:\Users\jhomell\Documents\SampleDesign\obj\Debug\SampleDesign.Home.resources
+C:\Users\jhomell\Documents\SampleDesign\obj\Debug\SampleDesign.Writing.resources
+C:\Users\jhomell\Documents\SampleDesign\obj\Debug\SampleDesign.Edit.resources
+C:\Users\jhomell\Documents\SampleDesign\obj\Debug\SampleDesign.View.resources
+C:\Users\jhomell\Documents\SampleDesign\obj\Debug\SampleDesign.Password.resources
+C:\Users\jhomell\Documents\SampleDesign\obj\Debug\SampleDesign.Resources.resources
+C:\Users\jhomell\Documents\SampleDesign\obj\Debug\SampleDesign.vbproj.GenerateResource.Cache
+C:\Users\jhomell\Documents\SampleDesign\obj\Debug\SampleDesign.exe.manifest
+C:\Users\jhomell\Documents\SampleDesign\obj\Debug\SampleDesign.application
+C:\Users\jhomell\Documents\SampleDesign\obj\Debug\SampleDesign.exe
+C:\Users\jhomell\Documents\SampleDesign\obj\Debug\SampleDesign.xml
+C:\Users\jhomell\Documents\SampleDesign\obj\Debug\SampleDesign.pdb
+C:\Users\jhomell\Documents\DiaryAccess\bin\Debug\SampleDesign.exe.config
+C:\Users\jhomell\Documents\DiaryAccess\obj\Debug\SampleDesign.exe
+C:\Users\jhomell\Documents\DiaryAccess\obj\Debug\SampleDesign.xml
+C:\Users\jhomell\Documents\DiaryAccess\obj\Debug\SampleDesign.pdb
+C:\Users\jhomell\Documents\DiaryAccess\bin\Debug\SampleDesign.exe.manifest
+C:\Users\jhomell\Documents\DiaryAccess\bin\Debug\SampleDesign.application
+C:\Users\jhomell\Documents\DiaryAccess\bin\Debug\SampleDesign.exe
+C:\Users\jhomell\Documents\DiaryAccess\bin\Debug\SampleDesign.pdb
+C:\Users\jhomell\Documents\DiaryAccess\bin\Debug\SampleDesign.xml
+C:\Users\jhomell\Documents\DiaryAccess\obj\Debug\SampleDesign.vbprojResolveAssemblyReference.cache
+C:\Users\jhomell\Documents\DiaryAccess\obj\Debug\SampleDesign.Intro.resources
+C:\Users\jhomell\Documents\DiaryAccess\obj\Debug\SampleDesign.Home.resources
+C:\Users\jhomell\Documents\DiaryAccess\obj\Debug\SampleDesign.Writing.resources
+C:\Users\jhomell\Documents\DiaryAccess\obj\Debug\SampleDesign.Edit.resources
+C:\Users\jhomell\Documents\DiaryAccess\obj\Debug\SampleDesign.View.resources
+C:\Users\jhomell\Documents\DiaryAccess\obj\Debug\SampleDesign.Password.resources
+C:\Users\jhomell\Documents\DiaryAccess\obj\Debug\SampleDesign.Resources.resources
+C:\Users\jhomell\Documents\DiaryAccess\obj\Debug\SampleDesign.vbproj.GenerateResource.Cache
+C:\Users\jhomell\Documents\DiaryAccess\obj\Debug\SampleDesign.exe.manifest
+C:\Users\jhomell\Documents\DiaryAccess\obj\Debug\SampleDesign.application
