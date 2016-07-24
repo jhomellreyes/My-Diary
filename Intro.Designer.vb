@@ -26,13 +26,14 @@ Partial Class Intro
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.txtPassword = New System.Windows.Forms.TextBox()
         Me.btnProceed = New System.Windows.Forms.Button()
+        Me.Button2 = New System.Windows.Forms.Button()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'PictureBox1
         '
         Me.PictureBox1.Image = CType(resources.GetObject("PictureBox1.Image"), System.Drawing.Image)
-        Me.PictureBox1.Location = New System.Drawing.Point(-6, 8)
+        Me.PictureBox1.Location = New System.Drawing.Point(-6, 3)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(563, 512)
         Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
@@ -42,7 +43,7 @@ Partial Class Intro
         'txtPassword
         '
         Me.txtPassword.Font = New System.Drawing.Font("Century Gothic", 30.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtPassword.Location = New System.Drawing.Point(209, 371)
+        Me.txtPassword.Location = New System.Drawing.Point(209, 367)
         Me.txtPassword.Name = "txtPassword"
         Me.txtPassword.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
         Me.txtPassword.Size = New System.Drawing.Size(206, 57)
@@ -62,11 +63,26 @@ Partial Class Intro
         Me.btnProceed.Text = "Proceed"
         Me.btnProceed.UseVisualStyleBackColor = False
         '
+        'Button2
+        '
+        Me.Button2.BackColor = System.Drawing.Color.DeepSkyBlue
+        Me.Button2.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.Button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.Button2.Font = New System.Drawing.Font("COCOMAT", 21.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button2.ForeColor = System.Drawing.Color.White
+        Me.Button2.Location = New System.Drawing.Point(136, 367)
+        Me.Button2.Name = "Button2"
+        Me.Button2.Size = New System.Drawing.Size(279, 62)
+        Me.Button2.TabIndex = 4
+        Me.Button2.Text = "Create Password"
+        Me.Button2.UseVisualStyleBackColor = False
+        '
         'Intro
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(550, 521)
+        Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.btnProceed)
         Me.Controls.Add(Me.txtPassword)
         Me.Controls.Add(Me.PictureBox1)
@@ -84,4 +100,5 @@ Partial Class Intro
     Friend WithEvents PictureBox1 As PictureBox
     Friend WithEvents txtPassword As TextBox
     Friend WithEvents btnProceed As Button
+    Friend WithEvents Button2 As Button
 End Class

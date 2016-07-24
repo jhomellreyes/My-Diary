@@ -2,6 +2,7 @@
 Module Module1
     Public today = System.DateTime.Now.ToString("MMMM dd, yy   hh:mm ")
     Public con As New OleDbConnection
+    Public x As New Integer
     Public Sub showdata()
         Dim dt As New DataTable
         Dim ds As New DataSet

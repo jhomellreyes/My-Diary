@@ -79,7 +79,7 @@ Partial Class Password
         Me.Controls.Add(Me.btnCreate)
         Me.Controls.Add(Me.txtPassword)
         Me.Controls.Add(Me.PictureBox1)
-        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
         Me.Name = "Password"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Create"

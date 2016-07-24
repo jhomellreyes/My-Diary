@@ -1,6 +1,7 @@
 ﻿Imports System.Data.OleDb
 Public Class Home
     Private Sub Home_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        con.Close()
         con.ConnectionString = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=" + Application.StartupPath + "\\Diary.mdb"
         con.Open()
         showdata()
