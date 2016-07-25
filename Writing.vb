@@ -14,7 +14,8 @@ Public Class Writing
 
         Try
             cmd.ExecuteNonQuery()
-            MsgBox("saved")
+            MsgBox("Saved", MsgBoxStyle.OkOnly, "My Diary")
+            txtStory.Clear()
             cmd.Dispose()
             Home.ListView1.Items.Clear()
             showdata()
@@ -22,7 +23,10 @@ Public Class Writing
             Me.Hide()
             Home.Show()
         Catch ex As Exception
-            MsgBox(ex.Message)
+            MsgBox("Sorry, but you're allow to write only one story each day", MsgBoxStyle.Information, "Reminder")
+            txtStory.Clear()
+            Home.Show()
+            Me.Hide()
         End Try
 
     End Sub
@@ -34,6 +38,6 @@ Public Class Writing
     Private Sub btnBack_Click(sender As Object, e As EventArgs) Handles btnBack.Click
         Me.Hide()
         Home.Show()
-
+        txtStory.Clear()
     End Sub
 End Class

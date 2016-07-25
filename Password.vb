@@ -16,7 +16,7 @@ Public Class Password
             Try
                 cmd.ExecuteNonQuery()
                 cmd.Dispose()
-                MsgBox("Changed")
+                Intro.Button2.Hide()
                 Home.ListView1.Items.Clear()
                 showdata()
                 Me.Hide()
@@ -24,6 +24,10 @@ Public Class Password
             Catch ex As Exception
                 MsgBox(ex.Message)
             End Try
+        Else
+            MsgBox("You must enter the same password twice in order to confirm it.", MsgBoxStyle.Exclamation, "Password do not match")
+            txtPassword.Clear()
+            txtRePass.Clear()
         End If
 
     End Sub

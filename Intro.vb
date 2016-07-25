@@ -35,6 +35,7 @@ Public Class Intro
 
         For Each datarow In dt.Rows
             If "admin" = datarow.item(0) Then
+                btnProceed.Enabled = False
             Else
                 Button2.Hide()
             End If

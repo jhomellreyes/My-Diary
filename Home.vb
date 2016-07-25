@@ -63,9 +63,11 @@ Public Class Home
                     Me.ListView1.Items.Clear()
                     showdata()
                 Catch ex As Exception
-                    MsgBox(ex.Message)
+                    MsgBox(ex)
                 End Try
             End With
+        Else
+            MsgBox("Select story that you want to delete", MsgBoxStyle.Information, "Reminder")
         End If
     End Sub
 End Class
